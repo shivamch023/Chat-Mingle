@@ -8,7 +8,7 @@ export const sampleChats = [
   },
   {
     avatar: ["https://www.w3schools.com/howto/img_avatar.png"],
-    name: "Saloni",
+    name: "jitendra",
     _id: "2",
     groupChat: false,
     members: ["1", "2"],
@@ -23,7 +23,7 @@ export const sampleUsers = [
   },
   {
     avatar: ["https://www.w3schools.com/howto/img_avatar.png"],
-    name: "Saloni",
+    name: "jitendra",
     _id: "2",
   },
 ];
@@ -39,7 +39,7 @@ export const sampleNotification = [
   {
     sender: {
       avatar: ["https://www.w3schools.com/howto/img_avatar.png"],
-      name: "Saloni",
+      name: "jitendra",
     },
     _id: "2",
   },
